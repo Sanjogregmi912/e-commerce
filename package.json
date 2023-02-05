@@ -17,12 +17,12 @@
     "type": "git",
     "url": "git+https://github.com/piyushsaha/proshop.git"
   },
-  "author": "Piyush Saha",
+  "author": "Prashanta Timilsina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/piyushsaha/proshop/issues"
+   
   },
-  "homepage": "https://github.com/piyushsaha/proshop#readme",
+  
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
